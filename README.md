@@ -2,7 +2,13 @@
 document my finished  tasks and to-do tasks. The newer tasks will be listed firstly.
 
 
+2022/5/4 -  :   
 
+【PaddlePaddle Hackathon 第二期】任务总览#40234     
+(https://github.com/PaddlePaddle/Paddle/issues/40234)
+ [PaddlePaddle Hackathon 2 No.22] add paddle.index_add to Paddle #42475       
+ (https://github.com/PaddlePaddle/Paddle/pull/42475)    
+ 
 
 2022/5/4 -  :   
 【PaddlePaddle Hackathon 第二期】任务总览#40234     
