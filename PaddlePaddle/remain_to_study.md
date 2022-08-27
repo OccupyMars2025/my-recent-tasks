@@ -1,0 +1,13 @@
+# task-irrelevant knowledge to study when this task is finished:
+## what is "hook" ???
+所有继承 nn.Layer 的 sublayer 都建议：
+
+重写 forward 函数，尽量避免重写 __call__ 函数
+__call__ 函数通常会包含框架层面的一些通用的处理逻辑，比如 pre_hook 和 post_hook 。重写此函数可能会覆盖框架层面的逻辑。
+
+尽量将 forward 函数作为 sublayers 的调用入口
+推荐这样写，但动转静也支持对 sublayers 的其他函数转写处理
+
+python\paddle\fluid\dygraph\jit.py 
+paddle.jit.save, paddle.jit.load, paddle.jit.to_static are all in this file.
+## this file has enormous usage of "hook"
