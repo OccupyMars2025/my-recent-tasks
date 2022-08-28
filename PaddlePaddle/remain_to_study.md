@@ -1,4 +1,4 @@
-# task-irrelevant knowledge to study when this task is finished:
+# 1. task-irrelevant knowledge to study when this task is finished:
 ## what is "hook" ???
 所有继承 nn.Layer 的 sublayer 都建议：
 
@@ -11,3 +11,8 @@ __call__ 函数通常会包含框架层面的一些通用的处理逻辑，比�
 python\paddle\fluid\dygraph\jit.py 
 paddle.jit.save, paddle.jit.load, paddle.jit.to_static are all in this file.
 ## this file has enormous usage of "hook"
+## you can also refer to  pre-commit
+
+# 2. study souce code : https://github.com/sxyu/sdf  (pip install pysdf)
+this project includes **Eigen**, **pybind11**  and  it  seems to be used in https://github.com/PaddlePaddle/PaddleScience 
+most important: this project is very **light** and very suitable for your self-learning
