@@ -1,3 +1,9 @@
+# 0. (2022/8/29 7:00) release note 2.3.1
+https://www.paddlepaddle.org.cn/documentation/docs/zh/develop/release_note_cn.html#id7
+
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/31559413/187099330-35477a18-a46d-43fc-a0dc-2d2566192cae.png">
+
+
 # 1. (2022/8/27 11:00)task-irrelevant knowledge to study when this task is finished:
 ## what is "hook" ???
 所有继承 nn.Layer 的 sublayer 都建议：
