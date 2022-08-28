@@ -1,6 +1,6 @@
 # 0. (2022/8/29 7:00) release note 2.3.1
 https://www.paddlepaddle.org.cn/documentation/docs/zh/develop/release_note_cn.html#id7
-
+If you want to have an overall understanding of PaddlePaddle, you can refer to the above website
 <img width="887" alt="image" src="https://user-images.githubusercontent.com/31559413/187099330-35477a18-a46d-43fc-a0dc-2d2566192cae.png">
 
 
