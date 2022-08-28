@@ -1,4 +1,4 @@
-# 1. task-irrelevant knowledge to study when this task is finished:
+# 1. (2022/8/27 11:00)task-irrelevant knowledge to study when this task is finished:
 ## what is "hook" ???
 所有继承 nn.Layer 的 sublayer 都建议：
 
@@ -13,6 +13,6 @@ paddle.jit.save, paddle.jit.load, paddle.jit.to_static are all in this file.
 ## this file has enormous usage of "hook"
 ## you can also refer to  pre-commit
 
-# 2. study souce code : https://github.com/sxyu/sdf  (pip install pysdf)
+# 2. (2022/8/28 11:00)study souce code : https://github.com/sxyu/sdf  (pip install pysdf)
 this project includes **Eigen**, **pybind11**  and  it  seems to be used in https://github.com/PaddlePaddle/PaddleScience 
 most important: this project is very **light** and very suitable for your self-learning
