@@ -28,3 +28,4 @@ most important: this project is very **light** and very suitable for your self-l
 
 # 3. study interoperability between python and C++ in PaddlePaddle, this is a PR from baidu paddle expert:
 https://github.com/PaddlePaddle/Paddle/pull/32524
+[pybind11与python C API 性能差距的主要原因是pybind11是用了一个巨大的hashmap来管理从python到C++的映射。](https://pytorch-dev-podcast.simplecast.com/episodes/binding-c-objects-to-python)
