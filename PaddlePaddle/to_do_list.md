@@ -22,3 +22,6 @@ paddle.jit.save, paddle.jit.load, paddle.jit.to_static are all in this file.
 # 2. (2022/8/28 11:00)study souce code : https://github.com/sxyu/sdf  (pip install pysdf)
 this project includes **Eigen**, **pybind11**  and  it  seems to be used in https://github.com/PaddlePaddle/PaddleScience     
 most important: this project is very **light** and very suitable for your self-learning
+
+# 3. study interoperability between python and C++ in PaddlePaddle, this is a PR from baidu paddle expert:
+https://github.com/PaddlePaddle/Paddle/pull/32524
